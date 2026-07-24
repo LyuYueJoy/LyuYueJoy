@@ -158,8 +158,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=lyuyuejoy&show_icons=true&locale=en"
-    alt="lyuyuejoy"
-  />
+  <a href="https://github.com/LyuYueJoy">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=LyuYueJoy&show_icons=true&theme=transparent&hide_border=true"
+      alt="Joy Yue Lyu's GitHub Stats"
+    />
+  </a>
 </p>
