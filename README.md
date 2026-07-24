@@ -13,25 +13,7 @@ I enjoy building full-stack applications with **React, TypeScript, C#, ASP.NET C
 **Cloud & DevOps:** AWS RDS, Lambda, Amplify, GitHub Actions  
 **Tools:** Git, GitHub, Visual Studio, VS Code
 
-## 🐢 Featured Project: ShellQuest
-
-**ShellQuest** is a gamified tortoise-care and community platform built with React, TypeScript, ASP.NET Core, Entity Framework Core, and SQLite.
-
-Key features include:
-
-- JWT registration, login, and protected API endpoints
-- Owner-specific tortoise CRUD operations
-- Daily care tasks, XP, coins, levels, and streaks
-- Dashboard and progress tracking
-- Avatar customisation and virtual shop
-- Forum posts, replies, and likes
-- Frontend and backend testing
-
-**Tech stack:** React · TypeScript · MUI · ASP.NET Core · EF Core · SQLite · JWT
-
-[View the ShellQuest repository](在这里放ShellQuest仓库链接)
-
-## 📌 Other Projects
+## 📌 Projects
 
 ### New Zealand Sign Language Learning Website
 
