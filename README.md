@@ -1,6 +1,6 @@
 # Hi, I'm Joy 👋
 
-I am a junior full-stack developer based in Auckland, New Zealand, currently completing a Master of Data Science at the University of Auckland.
+I am a student based in Auckland, New Zealand, currently completing a Master of Data Science at the University of Auckland.
 
 I enjoy building full-stack applications with **React, TypeScript, C#, ASP.NET Core, and relational databases**. I am currently strengthening my software engineering skills through personal projects, testing, cloud deployment, and system design.
 
